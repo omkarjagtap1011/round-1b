@@ -1,0 +1,8 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+sample_dataset/outputs/*
+sample_dataset/pdfs/*
